@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"starsimulator","l":"Constellations"},{"p":"starsimulator","l":"Star"},{"p":"starsimulator","l":"StarsFrame"},{"p":"starsimulator","l":"StarSimulator"},{"p":"starsimulator","l":"StarsPanel"}];updateSearchResults();
